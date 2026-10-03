@@ -1,0 +1,19 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/catch2-build",
+		"source" : "/Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build/_deps/catch2-src"
+	}
+}

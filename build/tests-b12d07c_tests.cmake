@@ -1,0 +1,5 @@
+add_test( [==[Integrity Test]==] /Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build/tests [==[Integrity Test]==]  )
+set_tests_properties( [==[Integrity Test]==] PROPERTIES WORKING_DIRECTORY /Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build)
+add_test( [==[Race Condition Test]==] /Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build/tests [==[Race Condition Test]==]  )
+set_tests_properties( [==[Race Condition Test]==] PROPERTIES WORKING_DIRECTORY /Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build)
+set( tests_TESTS [==[Integrity Test]==] [==[Race Condition Test]==])

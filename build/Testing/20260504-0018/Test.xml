@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20260504-0018-Experimental"
+	Name="Sprihas-MacBook-Air.local"
+	Generator="ctest-4.2.1"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="17.0.0.17000013"
+	OSName="macOS"
+	Hostname="Sprihas-MacBook-Air.local"
+	OSRelease="15.7.3"
+	OSVersion="24G419"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ModelName="Apple M1"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="3072"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Oct 03 01:34 EDT</StartDateTime>
+		<StartTestTime>1791005666</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 03 01:34 EDT</EndDateTime>
+		<EndTestTime>1791005666</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,19 @@
+- Chapter 15: Following through the readings
+
+Program #9: Templates & Generic Programming
+
+    - Our introduction to OOP in CPP (previously, focusing on unique CPP features)
+    - Built-in data types (int, string, etc.) vs. user-defined data types
+    - Perform comparisons and manage different data types
+
+    1)
+    - function findMax
+    - <concepts> header
+    - std::totally_ordered
+
+    2) 
+
+    - accessors & modifiers (getters and setters in CS240)
+
+    * Explain how Concept provides better error messages than a standard template when
+    unsupported type is passed.

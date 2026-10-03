@@ -1,0 +1,43 @@
+Start testing: May 14 23:43 EDT
+----------------------------------------------------------
+1/2 Testing: Integrity Test
+1/2 Test: Integrity Test
+Command: "/Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build/tests" "Integrity Test"
+Directory: /Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build
+"Integrity Test" start time: May 14 23:43 EDT
+Output:
+----------------------------------------------------------
+Filters: "Integrity Test"
+Randomness seeded to: 3486026112
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Integrity Test" end time: May 14 23:43 EDT
+"Integrity Test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: Race Condition Test
+2/2 Test: Race Condition Test
+Command: "/Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build/tests" "Race Condition Test"
+Directory: /Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build
+"Race Condition Test" start time: May 14 23:43 EDT
+Output:
+----------------------------------------------------------
+Filters: "Race Condition Test"
+Randomness seeded to: 1875215287
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Race Condition Test" end time: May 14 23:43 EDT
+"Race Condition Test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 14 23:43 EDT

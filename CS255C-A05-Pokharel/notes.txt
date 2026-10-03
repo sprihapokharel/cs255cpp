@@ -1,0 +1,15 @@
+For Assignment 05, using algorithms & iterators.
+- Do NOT use while/loops, use iterators.
+- Don't forget to write down comments (answer questions) from her assignment instructions in your program
+- The Lamda Function (look into it)
+    - Difficult to debug: function only exists in that space & time, doesn't point exactly what under the lambda function is wrong (if you have
+    like a thousands things inside it), it will only tell you Lambda function is wrong.
+
+HW Notes:
+
+- Using iterators to implement algorithms on containers
+- Using the <alogorithm> library instead of writing manual for or while loops
+- Using std::for_each, std::transform, and std::sort
+- Iterators -> for containers
+- Predicates -> functions or logics passed into algorithms
+

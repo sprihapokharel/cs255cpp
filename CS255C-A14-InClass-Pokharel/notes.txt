@@ -1,0 +1,10 @@
+
+- DataBuffer.h: header file (it is like an interface, gives the function that is
+used but does not give the implementation of how it is supposed
+to work)
+
+- Why would we get index out of bound?
+
+    - What does size return? (it will return 5 and not 4 as size, 5 goes out of bound)
+    - Get rid of the = symbol in sum() implementation. Use the dot on the left to fix that.
+    - Semantically incorrect.

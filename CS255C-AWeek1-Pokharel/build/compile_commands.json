@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/CS255C-AWeek1-Pokharel/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/CS255C-AWeek1-Pokharel.dir/helloworld.cpp.o -c /Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/CS255C-AWeek1-Pokharel/helloworld.cpp",
+  "file": "/Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/CS255C-AWeek1-Pokharel/helloworld.cpp",
+  "output": "CMakeFiles/CS255C-AWeek1-Pokharel.dir/helloworld.cpp.o"
+}
+]

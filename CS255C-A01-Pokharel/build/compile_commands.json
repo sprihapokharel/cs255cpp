@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/CS255C-A01-Pokharel/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -o CMakeFiles/CS255C-A01-Pokharel.dir/main.cpp.o -c /Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/CS255C-A01-Pokharel/main.cpp",
+  "file": "/Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/CS255C-A01-Pokharel/main.cpp",
+  "output": "CMakeFiles/CS255C-A01-Pokharel.dir/main.cpp.o"
+}
+]

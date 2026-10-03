@@ -1,0 +1,12 @@
+- Written exam: Incorrect code that you have to fix
+
+Why is the loading happening faster than waiting for worker?
+    -milisecond vs. second
+
+- Learning about using CMake (build ecosystems)
+
+Program #19 Learning Objectives:
+
+    - Using std::async and std::future to manage asychronous tasks
+    - Using std::promise to manage data transfer between threads
+    - Difference between eager and deferred execution policies

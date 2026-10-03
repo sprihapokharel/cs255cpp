@@ -1,0 +1,49 @@
+Error Handling (Online Class 03/17/26):
+
+In the future:
+
+- CMake eco-system, what is it, do we use it in industry?
+- Writing unit tests, debugging strategies (using the debugger), putting break points in your code.
+- Week 16 (Last Week of Class): Final Project due during Finals Week
+- Week 17: Oral Exam for the Final
+
+- Error Handling, alternative to writing user-defined functions
+- CPP Standard Library: very vast (using namespace std that's why to not use it, may slow us down for bigger programs)
+- Basic Error Codes: index out of bounds, undefined vars, can't divide by 0
+- Standard Library Optional or Standard Library Variant
+    - You don't know the data type to be returned: Lambda Functions
+
+    - Standard Library Optional (std::optional)
+
+    - Ex: Finding user with student ID of 111 (but they've graduated, no student exists with 111)
+            - We want it to return an optional (failed returned error)
+            - Optional is not a critical failure (not like a server failure, we don't want to crash out of the program)
+            - "No user here, did you want 112?" -> prompting the user for another, something similar
+
+    - Practicing "noexcept" to optimize code, improve performance (when we don't want an exception to be thrown during the process of it)
+    - Ex again: We want to not fail when we do an add function
+
+    - Standard Library Variant (std::variant)
+        If you have multiple data types, not sure what the return type will be
+
+
+Program #8 Breakdown:
+
+1) The Optional Lookup
+
+- Create struct User w/ name and age
+- Write function findUser(int id) that returns a std::optional<User>
+- If id exists, return the User object; otherwise, return std::nullopt
+- In main, use 
+
+2) The Variant Result
+
+- A function getDatabaseStatus(), that returns std::variant<int, std::string>
+- Return an int (error code like 404) if the system is lagging, or a std::string (Found/Not Found) if it's healthy
+
+3) Exception Safety
+
+- User defined, system defined, vs. optional exception (difference between all of this)
+
+Live-coding in Class
+

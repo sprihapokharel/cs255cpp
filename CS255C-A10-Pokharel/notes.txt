@@ -1,0 +1,22 @@
+Program #10: Concurrency 1 - Threading Basics
+
+What is a thread?
+    - Every program has 1 thread (bare minimum)
+    - For us, it is int main(), in CS2 it's public static void main str arg
+    - If you don't create internal threads, just one thread that runs start to bottom (int main ())
+    - Suppose, add function defined outside main, called within main
+        - Still runs sequentially through main (calls add function as main is executing)
+    
+    - We have int main ()
+        - If we have t1(thread 1) and t2 within main and let it do add()
+        - main thread ---------> end of program
+        - when t1, t2 called, it will branch out main ---> t1, main ---> t2
+        - but, when t1.join() and t2.join() is called, you will return back to the main thread
+            - one (e.g. t1) will get there first and wait for t2
+        - std::thread has functions like .wait(), .join()
+
+        - watch the videos!!!!!! (that she posts)
+
+Question regarding testing & debugging
+    - Reviewing Unix
+    - Using the CLI, BitBucket, Git, JIRA's life system

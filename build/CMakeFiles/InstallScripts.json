@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build/cmake_install.cmake",
+		"/Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build/_deps/catch2-build/cmake_install.cmake",
+		"/Users/sprihapokharel/workspace/SP26/CS255CPP_Workspace/build/_deps/catch2-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,27 @@
+Assignment 15
+
+- Self-reflection
+- Show error, show how you fixed it
+- What concepts from the class did you use in your final program for assign 16/final project?
+- Use multi-line comments (/** description @params @returns) => how does your method work?, these sort of comments need to be made throughout!
+- Use meaningful variables names
+- Write a 200 word self-critique answering the 3 questions/components outlined in the assignment instructions
+
+Actual Final Project
+
+- Make a fake project
+- Do a result buffer using numeric processers
+- Use header files, cpp files, test files
+- Have a cmake that fetches catch2 from github when you compile and run your code
+- Concurrency assign 3: concept (can copy-paste most of it from there)
+- DONT use raw (new or delete keyword)
+- Concurrency projects: synchronization, future & promises
+- Take it step by step
+- Do 15 and 16 at the same time, together
+- Do 16, write 15
+- Do 15 as you're doing 16
+- When you get an error, copy-paste to REVIEW.md & then the solution (do one error that you encounter, not every is required)
+- To go her for help if needed
+
+Ensure every class and non-trivial function in your Final Project has Doxygen-
+style comments explaining parameters, return values, and potential exceptions.

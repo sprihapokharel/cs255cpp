@@ -1,0 +1,2 @@
+/usr/bin/ar qc libThreadSafeBuffer.a CMakeFiles/ThreadSafeBuffer.dir/src/ThreadSafeBuffer.cpp.o
+/usr/bin/ranlib libThreadSafeBuffer.a
